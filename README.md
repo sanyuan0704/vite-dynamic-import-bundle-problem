@@ -1,0 +1,1 @@
+# vite-dymaic-import-bundle
